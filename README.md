@@ -1,2 +1,2 @@
 # spring-boot-demo
-A demo project
+A demo project.
